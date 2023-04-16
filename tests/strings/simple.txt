@@ -1,0 +1,2 @@
+11111,11101,11111111110,01111111,111,0101,111
+true,false,false,false,true,false,true
